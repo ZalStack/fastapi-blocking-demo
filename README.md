@@ -45,8 +45,8 @@ Biar ga ribet, ikutin aja langkah ini:
 
 ```bash
 # Clone dulu
-git clone <repo-url>
-cd fastapi-event-loop
+git clone git@github.com:ZalStack/fastapi-blocking-demo.git
+cd fastapi-blocking-demo
 
 # Bikin virtual environment
 python -m venv venv
